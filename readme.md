@@ -1,5 +1,7 @@
 # MyWebClass.Org Project - Agile Documentation Assignment
 
+sb2542
+
 ## Overview
 
 For this assignment, you need to develop an initial draft of project documentation based on the principles of the [Agile

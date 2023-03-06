@@ -137,8 +137,7 @@ Website developer: responsible for technical implementation of on-page SEO pract
 Project manager: responsible for overseeing the initiative and ensuring timely and efficient completion of deliverables.
 
 
-
-
+Initiative: Google Aanalytics
 
 
 # List epics related to this theme

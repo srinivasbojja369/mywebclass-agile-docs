@@ -12,7 +12,7 @@ Dependencies: This task depends on the completion of the initiative to improve o
 
 Effort Estimate: 40 hours
 
-Assigned To: John, DevOps Engineer
+Assigned To: Srinivas, DevOps Engineer
 
 Priority: High
 
@@ -37,7 +37,7 @@ Dependencies:
 Completion of the devops framework implementation task.
 Effort Estimate: 20 hours
 
-Assigned To: QA Engineer
+Assigned To: Suman
 
 Priority: High
 

@@ -58,3 +58,5 @@ Priority: High
 # List stories related to this theme
 1. As a registered user, I want to be able to reset my password so that I can regain access to my account if I forget my password.(documentation/templates/theme/initiatives/epics/stories/story_template.md)
 2. As a customer, I want to be able to view my order history so that I can track my past purchases and reorder items easily.(documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+sb2542

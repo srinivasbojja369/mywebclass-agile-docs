@@ -41,3 +41,4 @@ Acceptance Criteria:
 The website should be integrated with a SEO tool that provides regular ranking and traffic reports.
 The reports should include metrics such as keyword ranking, organic traffic, click-through rate, and bounce rate.
 
+sb2542

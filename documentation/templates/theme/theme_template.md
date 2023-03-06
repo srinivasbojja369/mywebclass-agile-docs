@@ -5,5 +5,3 @@
 1. Build an Integrated Learning Experience (documentation/templates/theme/initiatives/initiative_template.md)
 2. Implement DevOps Practices (documentation/templates/theme/initiatives/initiative_template.md)
 3. Improve On-Page SEO for MyWebClass.org (documentation/templates/theme/initiatives/initiative_template.md)
-
-sb2542

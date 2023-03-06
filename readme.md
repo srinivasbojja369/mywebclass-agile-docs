@@ -2,6 +2,8 @@
 
 ## Overview
 
+UCID: sb2542
+
 For this assignment, you need to develop an initial draft of project documentation based on the principles of the [Agile
 Manifesto - MUST READ](https://agilemanifesto.org/principles.html)
 and [Lean - READ ALL THE  PARTS 1-7 THAT ARE LINKED ON THE LEFT](https://www.planview.com/resources/guide/lean-principles-101/).

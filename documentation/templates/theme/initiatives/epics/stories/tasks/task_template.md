@@ -45,7 +45,7 @@ Status: Not started
 
 Notes: We may need to collaborate with the development team to ensure proper test coverage and to identify any areas of the application that may be difficult to test using automated testing.
 
-
+Task: USe GOogle Analytics to track how website is doing
 
 
 

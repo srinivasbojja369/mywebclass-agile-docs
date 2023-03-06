@@ -11,7 +11,7 @@ User Stories:
 As a website owner, I want to track website traffic to understand how many visitors are coming to the site.
 As a website owner, I want to track user behavior to see how users are interacting with the site and identify areas for improvement.
 
-Dependencies: None
+Dependencies: Knowledge of Google Analytics
 
 Risks:
 Inaccurate or incomplete data due to misconfiguration of Google Analytics tracking.
